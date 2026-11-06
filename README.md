@@ -4,8 +4,10 @@
 
 账号来源是 [account-onboard](https://github.com/forever1young/account-onboard-alltoken)：
 本服务定时主动拉取新账号、确认交付、再定时上报账号状态。所有连接均由本服务发起，
-account-onboard 从不主动连接本服务。导出 API 契约见 account-onboard 仓库的
-`docs/export-api.md`。
+account-onboard 从不主动连接本服务。
+
+文档：[开发清单](docs/roadmap.md) · 架构设计与导出 API 契约见 account-onboard 仓库的
+`docs/architecture.md` 和 `docs/export-api.md`。
 
 ## 结构
 
