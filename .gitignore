@@ -1,0 +1,18 @@
+.env
+*.log
+/bin/
+/tmp/
+.DS_Store
+
+# Go
+*.exe
+*.test
+*.out
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# IDE
+.vscode/
+.idea/
